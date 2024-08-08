@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+}
+.container{
+    width: 1300px;
+    margin: 0 auto;
+}
+.main-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #fff0f5;
+    border-radius: 15px;
+    border: 2px solid #ff69b4;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 93%;
+    height: 1300px;
+}
+
+.main-container h1 {
+    color: #ff69b4;
+}
+
+.main-container .heart {
+    color: #ff1493;
+}
+.main-container{
+    color: rgb(160, 160, 250);
+}
